@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Jetcash Wallet
+Comment=Jetcash wallet
+Exec=jetcashwallet %U
+Terminal=false
+Type=Application
+Icon=jetcash
+MimeType=x-scheme-handler/jetcash;
+Categories=Office;Finance;
